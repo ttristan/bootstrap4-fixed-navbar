@@ -1,7 +1,13 @@
 ### Simple navbar slider for bootstrap 4 (alpha 6).
+- fixed top right navbar
+- click to scroll to section
+- updates & highlights current section in view
+
+### Example
+[Codepen.io Example](http://codepen.io/ts-de/pen/OpPYrw)
 
 ### Usage
-see index.html or an exmaple usage.
+See index.html
 
 Simply add:
 ```html
@@ -9,5 +15,5 @@ Simply add:
 <script src="./navbar-fixed.js"></script>
 ```
 
-#### License
+##### License
 [MIT](http://www.opensource.org/licenses/mit-license.php)
