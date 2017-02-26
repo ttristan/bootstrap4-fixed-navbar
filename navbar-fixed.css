@@ -1,16 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700');
-
-* {
-  font-family: 'Open Sans', sans-serif;
-}
 html, body {
   height: 100%;
-}
-body {
-  background-color: #f9f9f9;
-}
-p {
-  margin-bottom: 0.2rem;
 }
 
 .container-fluid > .container, .container > .row {
@@ -42,6 +31,7 @@ nav .navbar-collapse.collapsing li a,
 nav .navbar-collapse.show li a  {
   padding: 0.5rem;
 }
+
 nav .navbar-collapse.show li a.active  {
   margin: 0;
 }
