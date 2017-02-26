@@ -1,7 +1,6 @@
-## Synopsis
-Simple navbar slider for bootstrap 4 (alpha 6).
+### Simple navbar slider for bootstrap 4 (alpha 6).
 
-## Usage
+### Usage
 see index.html or an exmaple usage.
 
 Simply add:
@@ -10,5 +9,5 @@ Simply add:
 <script src="./navbar-fixed.js"></script>
 ```
 
-## License
+#### License
 [MIT](http://www.opensource.org/licenses/mit-license.php)
