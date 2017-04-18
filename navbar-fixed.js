@@ -1,4 +1,7 @@
-/* Fixed Navbar Scrolling */
+/*
+* Fixed Navbar Scrolling
+* Github: https://github.com/ts-de/bootstrap4-fixed-navbar
+*/
 
 // init nav object from dom
 var nav = $('nav');
