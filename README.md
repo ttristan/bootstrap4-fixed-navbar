@@ -14,6 +14,3 @@ Simply add:
 <link rel="stylesheet" href="./navbar-fixed.css">
 <script src="./navbar-fixed.js"></script>
 ```
-
-##### License
-[MIT](http://www.opensource.org/licenses/mit-license.php)
